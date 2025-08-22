@@ -12,5 +12,5 @@ Proyecto académico enfocado en la **validación de registros contables** median
 
 ## Archivos
 - `Auditoria.sql` → Script SQL con validaciones.
-- `Auditoria.xlsx` → Archivo de Excel de apoyo.
+- `Auditoria.xlsm` → Archivo de Excel de apoyo.
 - `README.md` → Documentación del proyecto.
